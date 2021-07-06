@@ -5,11 +5,11 @@
 <a href="#"><img title="Rejisan7" src="https://img.shields.io/badge/Rejisan7-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-rejisan7/rejisan?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to make it public
+Project created by <a href="https://github.com/Rejisan7">Rejisan</a> to make it public
     <br>
        | © |
         Reserved |
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/farhan-dqz/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/Rejisan7/Rejisan
+$ cd Rejisan7
 $ chmod +x *
 $ npm i
 $ node qr.js
